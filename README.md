@@ -10,8 +10,9 @@ if you are going to develop iot in Visual Studio.
 You can use the solution and its project directly and start adding code and references.
 Or, you can create a template using it. To do that, build it and copy the 
 `ChromeExtensionTemplate.zip` file from the `bin` folder into your 
-`Documents\Visual Studio 2017\My Exported Templates` folder. From then on, you will
-have the Chrome Extension Template as an option in New Project dialog.
+`\Users\{your_user}\Documents\Visual Studio 2017\Templates\ProjectTemplates\` folder. 
+From then on, you will have the Chrome Extension Template as an option in 
+New Project dialog.
 
 ### Start using the template
 
