@@ -1,6 +1,6 @@
 # ChromeExtensionTemplate
 
-This is a simple Chrome extension template project in Visual Studio 2017.
+This is a simple Chrome extension template project in Visual Studio Code.
 It does not contain any refrences to 3rd party components and frameworks.
 The project is intended as a basic starting point for a Chrome extension
 if you are going to develop iot in Visual Studio.
@@ -8,9 +8,9 @@ if you are going to develop iot in Visual Studio.
 ## How to use the project
 
 You can use the solution and its project directly and start adding code and references.
-Or, you can create a template using it. To do that, build it and copy the 
-`ChromeExtensionTemplate.zip` file from the `bin` folder into your 
-`\Users\{your_user}\Documents\Visual Studio 2017\Templates\ProjectTemplates\` folder. 
+Or, you can create a template for Visual Studio 2019 using it. To do that, build it 
+and copy the `ChromeExtensionTemplate.zip` file from the `dist` folder into your 
+`%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates` folder. 
 From then on, you will have the Chrome Extension Template as an option in 
 New Project dialog.
 
